@@ -1,0 +1,14 @@
+title: GovCMS Eligibility Checker
+description: 
+  en: Help organisations to determine if they are eligible to use the Australian Government GovCMS managed web hosting and content management platform.
+  fr: Aider les organisations à déterminer si elles remplissent les conditions d’utilisation de la plateforme d’hébergement du gouvernement australien GovCMS.
+package: OpenFisca-GovCMS-Eligibility
+website: https://www.govcms.gov.au/get-started/evaluation/am-i-eligible-use-govcms
+author:
+  type: state_institution
+  name: Australian Department of Finance
+  contact: GovCMS@finance.gov.au
+  link: https://www.govcms.gov.au/
+source:
+  repository: https://github.com/govCMS/rules-as-code-govcms-eligibility
+  license: AGPL-3.0-only

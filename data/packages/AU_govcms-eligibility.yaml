@@ -1,0 +1,8 @@
+name: OpenFisca-GovCMS-Eligibility
+title:
+  fr: GovCMS Eligibility
+  en: GovCMS Eligibility
+jurisdiction: AU
+source:
+  repository: https://github.com/govCMS/rules-as-code-govcms-eligibility
+  license: AGPL-3.0-only
